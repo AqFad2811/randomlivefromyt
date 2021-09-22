@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun8.sh
-          ./France 24/autorun8.sh
+          chmod +x France 24/autorun8.sh
+          France 24/autorun8.sh
         
       - name: git add
         run: |
