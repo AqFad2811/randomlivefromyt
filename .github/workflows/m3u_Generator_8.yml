@@ -42,7 +42,6 @@ jobs:
         run: |
           pwd
           chmod +x autorun8.sh
-          ./autorun8.sh
         
       - name: git add
         run: |
